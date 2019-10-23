@@ -30,5 +30,9 @@ class Book
   def genre
     genre
   end
+  
+  def turn-page
+    
+  end
 end
 
